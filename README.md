@@ -6,13 +6,22 @@ This is just the 1.0 version of this nice app.
 
 Tools: Styled Components and others for next version soon.
 
-If you like my work please give it a star.
+If you like my work please give it a star. 
 
-And of course; feel free, to take a look :)
+And of course; feel free, to take a look :) 
 
 
 
------------------------------------
+Here is a simple img/full-capture:
+
+![win11](https://user-images.githubusercontent.com/48931439/231724446-71288a6e-ce94-4787-a2f2-cca2f695ee2d.png) 
+
+
+
+
+
+----------------------------------- 
+
 
 
 
