@@ -1,3 +1,22 @@
+# React-Windows11-Ui
+
+With this app, users can explore and interact with a virtual Windows 11 desktop, complete with icons, windows, and a taskbar (in the future). 
+This repository is a fun project for those interested in web development and UI design, and who want to explore the capabilities of React. 
+This is just the 1.0 version of this nice app. 
+
+Tools: Styled Components and others for next version soon.
+
+If you like my work please give it a star.
+
+And of course; feel free, to take a look :)
+
+
+
+-----------------------------------
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
